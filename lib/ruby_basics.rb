@@ -10,8 +10,8 @@ def argue(value)
   return value
 end
 
-def greeting
-
+def greeting(value1, value2)
+  "Hi " + value1 + value2 + "."
 end
 
 def return_a_value
